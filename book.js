@@ -62,8 +62,11 @@ module.exports={
 
         // Global configuration for plugins
         "pluginsConfig": {
+            "theme-default": {
+                "showLevel": true
+            },
             "github": {
-                "url": "https://github.com/holdtec/notebook"
+                "url": "https://github.com/holdtec/genesis-framework-doc.git"
             },
             "prism": {
                 "css": [
@@ -102,7 +105,7 @@ module.exports={
                 // ]
             },
             "editlink": {
-                "base": "https://github.com/alibroDeveloper/PersonalWiki.git",
+                "base": "https://github.com/holdtec/genesis-framework-doc.git",
                 "label": "Edit This Page",
                 "multilingual": false
               },
