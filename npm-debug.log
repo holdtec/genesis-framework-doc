@@ -10,8 +10,8 @@
 6 silly lifecycle final-note@1.0.0~preserve: no script for preserve, continuing
 7 info lifecycle final-note@1.0.0~serve: final-note@1.0.0
 8 verbose lifecycle final-note@1.0.0~serve: unsafe-perm in lifecycle true
-9 verbose lifecycle final-note@1.0.0~serve: PATH: /Users/deltatech/.nvm/versions/node/v6.17.1/lib/node_modules/npm/bin/node-gyp-bin:/Users/deltatech/Documents/gitbook/wechat- components/node_modules/.bin:/Users/deltatech/.pyenv/shims:/Users/deltatech/.pyenv/bin:/Users/deltatech/.pyenv/bin:/usr/local/opt/gradle@6/bin:/Users/deltatech/.nvm/versions/node/v6.17.1/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/apache-maven-3.6.0/bin:/usr/local/bin
-10 verbose lifecycle final-note@1.0.0~serve: CWD: /Users/deltatech/Documents/gitbook/wechat- components
+9 verbose lifecycle final-note@1.0.0~serve: PATH: /Users/deltatech/.nvm/versions/node/v6.17.1/lib/node_modules/npm/bin/node-gyp-bin:/Users/deltatech/Documents/gitbook/wechat-genesis-framework-doc/node_modules/.bin:/Users/deltatech/.pyenv/shims:/Users/deltatech/.pyenv/bin:/Users/deltatech/.pyenv/bin:/usr/local/opt/gradle@6/bin:/Users/deltatech/.nvm/versions/node/v6.17.1/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/apache-maven-3.6.0/bin:/usr/local/bin
+10 verbose lifecycle final-note@1.0.0~serve: CWD: /Users/deltatech/Documents/gitbook/wechat-genesis-framework-doc
 11 silly lifecycle final-note@1.0.0~serve: Args: [ '-c', 'gitbook serve' ]
 12 silly lifecycle final-note@1.0.0~serve: Returned: code: 1  signal: null
 13 info lifecycle final-note@1.0.0~serve: Failed to exec serve script
@@ -26,7 +26,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:920:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:230:5)
 15 verbose pkgid final-note@1.0.0
-16 verbose cwd /Users/deltatech/Documents/gitbook/wechat- components
+16 verbose cwd /Users/deltatech/Documents/gitbook/wechat-genesis-framework-doc
 17 error Darwin 23.2.0
 18 error argv "/Users/deltatech/.nvm/versions/node/v6.17.1/bin/node" "/Users/deltatech/.nvm/versions/node/v6.17.1/bin/npm" "run" "serve"
 19 error node v6.17.1
